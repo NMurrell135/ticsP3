@@ -2,7 +2,6 @@
 
 **Name: Nathan Murrell**
 
-**Game: Space invaders**
 
 1. What is the goal of your game?
 
