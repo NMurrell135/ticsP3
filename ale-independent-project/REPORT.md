@@ -1,8 +1,8 @@
 # My Atari AI
 
-**Name:**
+**Name: Nathan Murrell**
 
-**Game:**
+**Game: Space invaders**
 
 1. What is the goal of your game?
 
